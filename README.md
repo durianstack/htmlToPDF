@@ -1,4 +1,4 @@
-# zeplin-html-to-pdf
+# Convert HTML to PDF
 This is an AWS Lambda function that converts HTML pages to PDF documents using wkhtmltopdf.
 
 It implements a simple interface to read and HTML input and output PDF content:
